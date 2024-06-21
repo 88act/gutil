@@ -1,6 +1,6 @@
-module github.com/duke-git/lancet/v2
+module github.com/88act/gutil
 
-go 1.18
+go 1.22
 
 require (
 	golang.org/x/exp v0.0.0-20221208152030-732eee02a75a

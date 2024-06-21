@@ -16,7 +16,7 @@ Struct is abstract struct for provide several high level functions
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 ```
 
@@ -59,7 +59,7 @@ func New(value any, tagName ...string) *Struct
 package main
 
 import (
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -95,7 +95,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -137,7 +137,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -172,7 +172,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -207,7 +207,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -241,7 +241,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -278,7 +278,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -314,7 +314,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -359,7 +359,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -398,7 +398,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -437,7 +437,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -476,7 +476,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -515,7 +515,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {
@@ -553,7 +553,7 @@ package main
 import (
     "fmt"
     "reflect"
-    "github.com/duke-git/lancet/v2/structs"
+    "github.com/88act/gutil/structs"
 )
 
 func main() {

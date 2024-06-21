@@ -14,7 +14,7 @@ Package random implements some basic functions to generate random int and string
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 ```
 
@@ -56,7 +56,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {
@@ -82,7 +82,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {
@@ -108,7 +108,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {
@@ -134,7 +134,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {
@@ -160,7 +160,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {
@@ -186,7 +186,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {
@@ -212,7 +212,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {
@@ -238,7 +238,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {
@@ -264,7 +264,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {
@@ -294,7 +294,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {
@@ -320,7 +320,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {
@@ -346,7 +346,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/random"
+    "github.com/88act/gutil/random"
 )
 
 func main() {

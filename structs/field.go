@@ -3,7 +3,7 @@ package structs
 import (
 	"reflect"
 
-	"github.com/duke-git/lancet/v2/pointer"
+	"github.com/88act/gutil/pointer"
 )
 
 // Field is abstract struct field for provide several high level functions

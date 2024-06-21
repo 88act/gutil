@@ -8,7 +8,7 @@ package datastructure
 import (
 	"errors"
 
-	"github.com/duke-git/lancet/v2/constraints"
+	"github.com/88act/gutil/constraints"
 )
 
 // PriorityQueue is a priority queue implemented by binary heap tree

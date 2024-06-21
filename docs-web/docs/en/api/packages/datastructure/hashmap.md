@@ -14,7 +14,7 @@ HashMap is a key value map data structure.
 
 ```go
 import (
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 ```
 
@@ -55,7 +55,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -81,7 +81,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -107,7 +107,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -135,7 +135,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -166,7 +166,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -200,7 +200,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -231,7 +231,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -266,7 +266,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -298,7 +298,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -329,7 +329,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -369,7 +369,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {

@@ -11,9 +11,9 @@ import (
 	"unicode/utf8"
 	"unsafe"
 
-	"github.com/duke-git/lancet/v2/internal"
-	"github.com/duke-git/lancet/v2/slice"
-	"github.com/duke-git/lancet/v2/validator"
+	"github.com/88act/gutil/internal"
+	"github.com/88act/gutil/slice"
+	"github.com/88act/gutil/validator"
 )
 
 func TestToChar(t *testing.T) {

@@ -2,15 +2,17 @@ package condition
 
 import (
 	"errors"
+	"fmt"
 	"testing"
 	"time"
 
-	"github.com/duke-git/lancet/v2/internal"
+	"github.com/88act/gutil/internal"
 )
 
 type TestStruct struct{}
 
 func TestBool(t *testing.T) {
+	fmt.Println("1111111111")
 	t.Parallel()
 
 	assert := internal.NewAssert(t, "TestBool")

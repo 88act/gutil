@@ -7,7 +7,7 @@ package datastructure
 import (
 	"reflect"
 
-	"github.com/duke-git/lancet/v2/iterator"
+	"github.com/88act/gutil/iterator"
 )
 
 // List is a linear table, implemented with slice.

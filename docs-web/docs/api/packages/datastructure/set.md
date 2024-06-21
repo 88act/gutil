@@ -14,7 +14,7 @@
 
 ```go
 import (
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 ```
 
@@ -66,7 +66,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -92,7 +92,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -119,7 +119,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -145,7 +145,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -173,7 +173,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -206,7 +206,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -245,7 +245,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -274,7 +274,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -303,7 +303,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -333,7 +333,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -360,7 +360,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -389,7 +389,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -419,7 +419,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -450,7 +450,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -487,7 +487,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -516,7 +516,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -545,7 +545,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -574,7 +574,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -603,7 +603,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {
@@ -636,7 +636,7 @@ package main
 
 import (
     "fmt"
-    set "github.com/duke-git/lancet/v2/datastructure/set"
+    set "github.com/88act/gutil/datastructure/set"
 )
 
 func main() {

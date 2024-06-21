@@ -14,7 +14,7 @@ mathutil 包实现了一些数学计算的函数.
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 ```
 
@@ -74,7 +74,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -109,7 +109,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -145,7 +145,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -181,7 +181,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -217,7 +217,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -250,7 +250,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -294,7 +294,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -327,7 +327,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -371,7 +371,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -407,7 +407,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -443,7 +443,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -479,7 +479,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -515,7 +515,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -551,7 +551,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -587,7 +587,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -623,7 +623,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -659,7 +659,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -698,7 +698,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -737,7 +737,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -773,7 +773,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -809,7 +809,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -839,7 +839,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -878,7 +878,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -920,7 +920,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -956,7 +956,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -998,7 +998,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -1040,7 +1040,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -1076,7 +1076,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -1109,7 +1109,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {
@@ -1145,7 +1145,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/mathutil"
+    "github.com/88act/gutil/mathutil"
 )
 
 func main() {

@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"unicode/utf8"
 
-	"github.com/duke-git/lancet/v2/validator"
+	"github.com/88act/gutil/validator"
 	"golang.org/x/text/encoding/simplifiedchinese"
 )
 

@@ -9,7 +9,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/duke-git/lancet/v2/internal"
+	"github.com/88act/gutil/internal"
 )
 
 func TestIsExist(t *testing.T) {

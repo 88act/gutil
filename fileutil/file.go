@@ -24,7 +24,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/duke-git/lancet/v2/validator"
+	"github.com/88act/gutil/validator"
 )
 
 // FileReader is a reader supporting offset seeking and reading one

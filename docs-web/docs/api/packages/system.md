@@ -14,7 +14,7 @@ system 包含 os, runtime, shell command 相关函数。
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/system"
+    "github.com/88act/gutil/system"
 )
 ```
 
@@ -51,7 +51,7 @@ func IsWindows() bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/system"
+    "github.com/88act/gutil/system"
 )
 
 func main() {
@@ -75,7 +75,7 @@ func IsLinux() bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/system"
+    "github.com/88act/gutil/system"
 )
 
 func main() {
@@ -99,7 +99,7 @@ func IsMac() bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/system"
+    "github.com/88act/gutil/system"
 )
 
 func main() {
@@ -123,7 +123,7 @@ func GetOsEnv(key string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/system"
+    "github.com/88act/gutil/system"
 )
 
 func main() {
@@ -153,7 +153,7 @@ func SetOsEnv(key, value string) error
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/system"
+    "github.com/88act/gutil/system"
 )
 
 func main() {
@@ -183,7 +183,7 @@ func RemoveOsEnv(key string) error
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/system"
+    "github.com/88act/gutil/system"
 )
 
 func main() {
@@ -221,7 +221,7 @@ func CompareOsEnv(key, comparedEnv string) bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/system"
+    "github.com/88act/gutil/system"
 )
 
 func main() {
@@ -257,7 +257,7 @@ func ExecCommand(command string, opts ...Option) (stdout, stderr string, err err
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/system"
+    "github.com/88act/gutil/system"
 )
 
 func main() {
@@ -297,7 +297,7 @@ func GetOsBits() int
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/system"
+    "github.com/88act/gutil/system"
 )
 
 func main() {

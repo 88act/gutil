@@ -4,7 +4,7 @@
 // Package algorithm contain some basic algorithm functions. eg. sort, search, list, linklist, stack, queue, tree, graph.
 package algorithm
 
-import "github.com/duke-git/lancet/v2/constraints"
+import "github.com/88act/gutil/constraints"
 
 // Search algorithms see https://github.com/TheAlgorithms/Go/tree/master/search
 

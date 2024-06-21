@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/duke-git/lancet/v2/internal"
+	"github.com/88act/gutil/internal"
 )
 
 func TestConcurrentMap_Set_Get(t *testing.T) {

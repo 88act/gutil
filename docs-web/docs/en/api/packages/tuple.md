@@ -14,7 +14,7 @@ tuple package implements tuple data type and some operations on it.
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 ```
 
@@ -86,7 +86,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -114,7 +114,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -143,7 +143,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -171,7 +171,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -206,7 +206,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -234,7 +234,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -263,7 +263,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -291,7 +291,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -329,7 +329,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -357,7 +357,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -386,7 +386,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -414,7 +414,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -453,7 +453,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -481,7 +481,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -510,7 +510,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -538,7 +538,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -578,7 +578,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -606,7 +606,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -635,7 +635,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -663,7 +663,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -704,7 +704,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -732,7 +732,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -761,7 +761,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -789,7 +789,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -831,7 +831,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -859,7 +859,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -888,7 +888,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -916,7 +916,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -961,7 +961,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -989,7 +989,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -1018,7 +1018,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -1046,7 +1046,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -1092,7 +1092,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -1123,7 +1123,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -1155,7 +1155,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {
@@ -1183,7 +1183,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/tuple"
+    "github.com/88act/gutil/tuple"
 )
 
 func main() {

@@ -12,7 +12,7 @@ Package concurrency contain some functions to support concurrent programming. eg
 ## Usage:
 ```go
 import (
-    "github.com/duke-git/lancet/v2/concurrency"
+    "github.com/88act/gutil/concurrency"
 )
 ```
 
@@ -52,7 +52,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/concurrency"
+    "github.com/88act/gutil/concurrency"
 )
 
 func main() {
@@ -77,7 +77,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/duke-git/lancet/v2/concurrency"
+    "github.com/88act/gutil/concurrency"
 )
 
 func main() {
@@ -129,7 +129,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/duke-git/lancet/v2/concurrency"
+    "github.com/88act/gutil/concurrency"
 )
 
 func main() {
@@ -168,7 +168,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/duke-git/lancet/v2/concurrency"
+    "github.com/88act/gutil/concurrency"
 )
 
 func main() {
@@ -207,7 +207,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/duke-git/lancet/v2/concurrency"
+    "github.com/88act/gutil/concurrency"
 )
 
 func main() {
@@ -245,7 +245,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/duke-git/lancet/v2/concurrency"
+    "github.com/88act/gutil/concurrency"
 )
 
 func main() {
@@ -287,7 +287,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/duke-git/lancet/v2/concurrency"
+    "github.com/88act/gutil/concurrency"
 )
 
 func main() {
@@ -330,7 +330,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/duke-git/lancet/v2/concurrency"
+    "github.com/88act/gutil/concurrency"
 )
 
 func main() {
@@ -368,7 +368,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/duke-git/lancet/v2/concurrency"
+    "github.com/88act/gutil/concurrency"
 )
 
 func main() {
@@ -414,7 +414,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/duke-git/lancet/v2/concurrency"
+    "github.com/88act/gutil/concurrency"
 )
 
 func main() {

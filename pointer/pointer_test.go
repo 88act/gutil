@@ -3,7 +3,7 @@ package pointer
 import (
 	"testing"
 
-	"github.com/duke-git/lancet/v2/internal"
+	"github.com/88act/gutil/internal"
 )
 
 func TestOf(t *testing.T) {

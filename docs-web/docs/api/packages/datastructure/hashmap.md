@@ -14,7 +14,7 @@ HashMap 数据结构实现
 
 ```go
 import (
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 ```
 
@@ -54,7 +54,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -80,7 +80,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -106,7 +106,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -134,7 +134,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -163,7 +163,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -195,7 +195,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -225,7 +225,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -260,7 +260,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -292,7 +292,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {
@@ -324,7 +324,7 @@ package main
 
 import (
     "fmt"
-    hashmap "github.com/duke-git/lancet/v2/datastructure/hashmap"
+    hashmap "github.com/88act/gutil/datastructure/hashmap"
 )
 
 func main() {

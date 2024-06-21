@@ -16,7 +16,7 @@ Package function can control the flow of function execution and support part of 
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 ```
 
@@ -62,7 +62,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -95,7 +95,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -132,7 +132,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -171,7 +171,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -209,7 +209,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -259,7 +259,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -291,7 +291,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -331,7 +331,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -382,7 +382,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -430,7 +430,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -467,7 +467,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -502,7 +502,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -542,7 +542,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -584,7 +584,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -621,7 +621,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {
@@ -658,7 +658,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/function"
+    "github.com/88act/gutil/function"
 )
 
 func main() {

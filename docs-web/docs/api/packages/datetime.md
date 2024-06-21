@@ -14,7 +14,7 @@ datetime 日期时间处理包，格式化日期，比较日期。
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 ```
 
@@ -114,7 +114,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -153,7 +153,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -192,7 +192,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -231,7 +231,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -270,7 +270,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -302,7 +302,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -334,7 +334,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -366,7 +366,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -398,7 +398,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -430,7 +430,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -462,7 +462,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -494,7 +494,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -526,7 +526,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -558,7 +558,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -590,7 +590,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -622,7 +622,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -653,7 +653,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -682,7 +682,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -711,7 +711,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -740,7 +740,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -769,7 +769,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -798,7 +798,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -827,7 +827,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -857,7 +857,7 @@ package main
 import (
     "fmt"
     "time"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -895,7 +895,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -934,7 +934,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -966,7 +966,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -998,7 +998,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1030,7 +1030,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1059,7 +1059,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1088,7 +1088,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1117,7 +1117,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1147,7 +1147,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1177,7 +1177,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1210,7 +1210,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1247,7 +1247,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1288,7 +1288,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1328,7 +1328,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1362,7 +1362,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1393,7 +1393,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1423,7 +1423,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {
@@ -1453,7 +1453,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datetime"
+    "github.com/88act/gutil/datetime"
 )
 
 func main() {

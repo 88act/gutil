@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/duke-git/lancet/v2/internal"
+	"github.com/88act/gutil/internal"
 )
 
 func TestResolve(t *testing.T) {

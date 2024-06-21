@@ -14,7 +14,7 @@ Package retry is for executing a function repeatedly until it was successful or 
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/retry"
+    "github.com/88act/gutil/retry"
 )
 ```
 
@@ -53,7 +53,7 @@ import (
     "context"
     "errors"
     "fmt"
-    "github.com/duke-git/lancet/v2/retry"
+    "github.com/88act/gutil/retry"
     "time"
 )
 
@@ -102,7 +102,7 @@ import (
     "fmt"
     "errors"
     "log"
-    "github.com/duke-git/lancet/v2/retry"
+    "github.com/88act/gutil/retry"
 )
 
 func main() {
@@ -148,7 +148,7 @@ import (
     "fmt"
     "errors"
     "log"
-    "github.com/duke-git/lancet/v2/retry"
+    "github.com/88act/gutil/retry"
 )
 
 func main() {
@@ -191,7 +191,7 @@ import (
     "fmt"
     "errors"
     "log"
-    "github.com/duke-git/lancet/v2/retry"
+    "github.com/88act/gutil/retry"
 )
 
 func main() {
@@ -237,7 +237,7 @@ import (
     "fmt"
     "errors"
     "log"
-    "github.com/duke-git/lancet/v2/retry"
+    "github.com/88act/gutil/retry"
 )
 
 func main() {
@@ -288,7 +288,7 @@ import (
     "fmt"
     "errors"
     "log"
-    "github.com/duke-git/lancet/v2/retry"
+    "github.com/88act/gutil/retry"
 )
 
 type ExampleCustomBackoffStrategy struct {
@@ -340,7 +340,7 @@ import (
     "fmt"
     "errors"
     "log"
-    "github.com/duke-git/lancet/v2/retry"
+    "github.com/88act/gutil/retry"
 )
 
 type ExampleCustomBackoffStrategy struct {
@@ -393,7 +393,7 @@ import (
     "fmt"
     "errors"
     "log"
-    "github.com/duke-git/lancet/v2/retry"
+    "github.com/88act/gutil/retry"
 )
 
 func main() {
@@ -438,7 +438,7 @@ import (
     "fmt"
     "errors"
     "log"
-    "github.com/duke-git/lancet/v2/retry"
+    "github.com/88act/gutil/retry"
 )
 
 func main() {

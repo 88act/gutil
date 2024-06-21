@@ -14,7 +14,7 @@ strutil 包含处理字符串的相关函数。
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 ```
 
@@ -83,7 +83,7 @@ func After(s, char string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -123,7 +123,7 @@ func AfterLast(s, char string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -163,7 +163,7 @@ func Before(s, char string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -200,7 +200,7 @@ func BeforeLast(s, char string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -237,7 +237,7 @@ func CamelCase(s string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -272,7 +272,7 @@ func KebabCase(s string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -307,7 +307,7 @@ func UpperKebabCase(s string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -342,7 +342,7 @@ func Capitalize(s string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -377,7 +377,7 @@ func IsString(v any) bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -417,7 +417,7 @@ func LowerFirst(s string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -451,7 +451,7 @@ func UpperFirst(s string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -485,7 +485,7 @@ func Pad(source string, size int, padStr string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -530,7 +530,7 @@ func PadEnd(source string, size int, padStr string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -576,7 +576,7 @@ func PadStart(source string, size int, padStr string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -622,7 +622,7 @@ func Reverse(s string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -653,7 +653,7 @@ func SnakeCase(s string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -688,7 +688,7 @@ func UpperSnakeCase(s string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -723,7 +723,7 @@ func SplitEx(s, sep string, removeEmptyString bool) []string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -764,7 +764,7 @@ func Substring(s string, offset int, length uint) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -807,7 +807,7 @@ func Wrap(str string, wrapWith string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -844,7 +844,7 @@ func Unwrap(str string, wrapToken string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -884,7 +884,7 @@ func SplitWords(s string) []string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -927,7 +927,7 @@ func WordCount(s string) int
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -970,7 +970,7 @@ func RemoveNonPrintable(str string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1001,7 +1001,7 @@ func StringToBytes(str string) (b []byte)
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1031,7 +1031,7 @@ func BytesToString(bytes []byte) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1060,7 +1060,7 @@ func IsBlank(str string) bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1094,7 +1094,7 @@ func IsNotBlank(str string) bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1133,7 +1133,7 @@ func HasPrefixAny(str string, prefixes []string) bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1164,7 +1164,7 @@ func HasSuffixAny(str string, suffixes []string) bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1195,7 +1195,7 @@ func IndexOffset(str string, substr string, idxFrom int) int
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1237,7 +1237,7 @@ func ReplaceWithMap(str string, replaces map[string]string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1270,7 +1270,7 @@ func Trim(str string, characterMask ...string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1307,7 +1307,7 @@ func SplitAndTrim(str, delimiter string, characterMask ...string) []string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1340,7 +1340,7 @@ func HideString(origin string, start, end int, replaceChar string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1379,7 +1379,7 @@ func ContainsAll(str string, substrs []string) bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1412,7 +1412,7 @@ func ContainsAny(str string, substrs []string) bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1448,7 +1448,7 @@ func RemoveWhiteSpace(str string, repalceAll bool) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1481,7 +1481,7 @@ func SubInBetween(str string, start string, end string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1514,7 +1514,7 @@ func HammingDistance(a, b string) (int, error)
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {
@@ -1546,7 +1546,7 @@ func Concat(length int, str ...string) string
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/strutil"
+    "github.com/88act/gutil/strutil"
 )
 
 func main() {

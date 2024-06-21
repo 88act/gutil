@@ -7,10 +7,11 @@ import (
 	"strconv"
 	"unicode/utf8"
 
-	"github.com/duke-git/lancet/v2/validator"
+	"github.com/88act/gutil/validator"
 )
 
 func ExampleToBool() {
+	fmt.Println("111111")
 	cases := []string{"1", "true", "True", "false", "False", "0", "123", "0.0", "abc"}
 
 	for i := 0; i < len(cases); i++ {
@@ -46,6 +47,7 @@ func ExampleToBytes() {
 }
 
 func ExampleToChar() {
+	fmt.Println("111111")
 	result1 := ToChar("")
 	result2 := ToChar("abc")
 	result3 := ToChar("1 2#3")

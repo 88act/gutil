@@ -14,7 +14,7 @@ convertor 转换器包支持一些常见的数据类型转换
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 ```
 
@@ -69,7 +69,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -100,7 +100,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -133,7 +133,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -174,7 +174,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -207,7 +207,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -243,7 +243,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -280,7 +280,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -325,7 +325,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -367,7 +367,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -402,7 +402,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -443,7 +443,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -472,7 +472,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -520,7 +520,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -558,7 +558,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -588,7 +588,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -617,7 +617,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -653,7 +653,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -717,7 +717,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -796,7 +796,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -831,8 +831,8 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
-    "github.com/duke-git/lancet/v2/validator"
+    "github.com/88act/gutil/convertor"
+    "github.com/88act/gutil/validator"
 )
 
 func main() {
@@ -865,7 +865,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -898,7 +898,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -970,7 +970,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -1039,7 +1039,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {
@@ -1103,7 +1103,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/convertor"
+    "github.com/88act/gutil/convertor"
 )
 
 func main() {

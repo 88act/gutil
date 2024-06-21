@@ -14,7 +14,7 @@ Stream 流，该包仅验证简单 stream 实现，功能有限。
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 ```
 
@@ -68,7 +68,7 @@ func Of[T any](elems ...T) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -98,7 +98,7 @@ func FromSlice[T any](source []T) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -128,7 +128,7 @@ func FromChannel[T any](source <-chan T) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -166,7 +166,7 @@ func FromRange[T constraints.Integer | constraints.Float](start, end, step T) st
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -195,7 +195,7 @@ func Generate[T any](generator func() func() (item T, ok bool)) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -235,7 +235,7 @@ func Concat[T any](a, b stream[T]) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -268,7 +268,7 @@ func (s stream[T]) Distinct() stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -302,7 +302,7 @@ func (s stream[T]) Filter(predicate func(item T) bool) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -336,7 +336,7 @@ func (s stream[T]) Map(mapper func(item T) T) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -370,7 +370,7 @@ func (s stream[T]) Peek(consumer func(item T)) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -407,7 +407,7 @@ func (s stream[T]) Skip(n int) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -446,7 +446,7 @@ func (s stream[T]) Limit(maxSize int) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -485,7 +485,7 @@ func (s stream[T]) Reverse() stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -515,7 +515,7 @@ func (s stream[T]) Range(start, end int) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -554,7 +554,7 @@ func (s stream[T]) Sorted(less func(a, b T) bool) stream[T]
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -586,7 +586,7 @@ func (s stream[T]) ForEach(action func(item T))
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -619,7 +619,7 @@ func (s stream[T]) Reduce(initial T, accumulator func(a, b T) T) T
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -651,7 +651,7 @@ func (s stream[T]) FindFirst() (T, bool)
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -683,7 +683,7 @@ func (s stream[T]) FindLast() (T, bool)
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -715,7 +715,7 @@ func (s stream[T]) Max(less func(a, b T) bool) (T, bool)
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -747,7 +747,7 @@ func (s stream[T]) Min(less func(a, b T) bool) (T, bool)
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -779,7 +779,7 @@ func (s stream[T]) AllMatch(predicate func(item T) bool) bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -817,7 +817,7 @@ func (s stream[T]) AnyMatch(predicate func(item T) bool) bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -855,7 +855,7 @@ func (s stream[T]) NoneMatch(predicate func(item T) bool) bool
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -893,7 +893,7 @@ func (s stream[T]) Count() int
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {
@@ -924,7 +924,7 @@ func (s stream[T]) ToSlice() []T
 ```go
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/stream"
+    "github.com/88act/gutil/stream"
 )
 
 func main() {

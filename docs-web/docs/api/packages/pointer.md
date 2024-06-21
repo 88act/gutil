@@ -14,7 +14,7 @@ pointer 包支持一些指针类型的操作。
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 ```
 
@@ -49,7 +49,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 
 func main() {
@@ -82,7 +82,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 
 func main() {
@@ -118,7 +118,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 
 func main() {
@@ -153,7 +153,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 
 func main() {
@@ -198,7 +198,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 
 func main() {

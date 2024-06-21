@@ -14,7 +14,7 @@ xerror 错误处理逻辑封装
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 ```
 
@@ -66,7 +66,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -95,7 +95,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -127,7 +127,7 @@ package main
 import (
     "fmt"
     "github.com/pkg/errors"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -162,7 +162,7 @@ package main
 import (
     "fmt"
     "errors"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -193,7 +193,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -226,7 +226,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -258,7 +258,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -295,7 +295,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -332,7 +332,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -365,7 +365,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -399,7 +399,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -439,7 +439,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {
@@ -468,7 +468,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/xerror"
+    "github.com/88act/gutil/xerror"
 )
 
 func main() {

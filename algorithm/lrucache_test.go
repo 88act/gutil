@@ -3,7 +3,7 @@ package algorithm
 import (
 	"testing"
 
-	"github.com/duke-git/lancet/v2/internal"
+	"github.com/88act/gutil/internal"
 )
 
 func TestLRUCache(t *testing.T) {

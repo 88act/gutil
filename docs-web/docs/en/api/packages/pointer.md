@@ -14,7 +14,7 @@ pointer contains some util functions to operate go pointer.
 
 ```go
 import (
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 ```
 
@@ -49,7 +49,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 
 func main() {
@@ -83,7 +83,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 
 func main() {
@@ -119,7 +119,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 
 func main() {
@@ -164,7 +164,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 
 func main() {
@@ -210,7 +210,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/pointer"
+    "github.com/88act/gutil/pointer"
 )
 
 func main() {

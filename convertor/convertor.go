@@ -18,7 +18,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/duke-git/lancet/v2/structs"
+	"github.com/88act/gutil/structs"
 	"golang.org/x/text/encoding/simplifiedchinese"
 	"golang.org/x/text/transform"
 )

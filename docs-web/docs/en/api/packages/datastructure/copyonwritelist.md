@@ -215,7 +215,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datastructure/list"
+    "github.com/88act/gutil/datastructure/list"
 )
 
 func main() {
@@ -241,7 +241,7 @@ package main
 
 import (
     "fmt"
-    "github.com/duke-git/lancet/v2/datastructure/list"
+    "github.com/88act/gutil/datastructure/list"
 )
 
 func main() {

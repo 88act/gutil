@@ -3,7 +3,7 @@ package structs
 import (
 	"strings"
 
-	"github.com/duke-git/lancet/v2/validator"
+	"github.com/88act/gutil/validator"
 )
 
 // Tag is abstract struct field tag
