@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/88act/gutil/random"
+	"github.com/duke-git/lancet/v2/random"
 	"golang.org/x/exp/constraints"
 )
 

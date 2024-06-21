@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/88act/gutil/internal"
+	"github.com/duke-git/lancet/v2/internal"
 )
 
 func TestAfter(t *testing.T) {

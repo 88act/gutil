@@ -28,7 +28,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/88act/gutil/slice"
+	"github.com/duke-git/lancet/v2/slice"
 )
 
 // HttpGet send get http request.

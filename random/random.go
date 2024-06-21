@@ -13,7 +13,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/88act/gutil/mathutil"
+	"github.com/duke-git/lancet/v2/mathutil"
 )
 
 const (

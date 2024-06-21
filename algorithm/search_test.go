@@ -3,7 +3,7 @@ package algorithm
 import (
 	"testing"
 
-	"github.com/88act/gutil/internal"
+	"github.com/duke-git/lancet/v2/internal"
 )
 
 func TestLinearSearch(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/88act/gutil/convertor"
+	"github.com/duke-git/lancet/v2/convertor"
 )
 
 func compareValue(operator string, left, right any) bool {

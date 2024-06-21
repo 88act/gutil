@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/88act/gutil/internal"
+	"github.com/duke-git/lancet/v2/internal"
 )
 
 func TestDefault(t *testing.T) {

@@ -2,12 +2,11 @@ package slice
 
 import (
 	"fmt"
+	"github.com/duke-git/lancet/v2/internal"
 	"math"
 	"reflect"
 	"strconv"
 	"testing"
-
-	"github.com/88act/gutil/internal"
 )
 
 func TestContain(t *testing.T) {

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"unicode/utf8"
 
-	"github.com/88act/gutil/validator"
+	"github.com/duke-git/lancet/v2/validator"
 )
 
 func ExampleToBool() {

@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/88act/gutil/fileutil"
+	"github.com/duke-git/lancet/v2/fileutil"
 )
 
 // GetInternalIp return internal ipv4.

@@ -3,7 +3,7 @@ package datastructure
 import (
 	"testing"
 
-	"github.com/88act/gutil/internal"
+	"github.com/duke-git/lancet/v2/internal"
 )
 
 func TestCircularQueue_Enqueue(t *testing.T) {

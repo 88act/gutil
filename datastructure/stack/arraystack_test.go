@@ -3,7 +3,7 @@ package datastructure
 import (
 	"testing"
 
-	"github.com/88act/gutil/internal"
+	"github.com/duke-git/lancet/v2/internal"
 )
 
 func TestArrayStack_Push(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/88act/gutil/datastructure"
+	"github.com/duke-git/lancet/v2/datastructure"
 )
 
 // LinkedStack implements stack with link list

@@ -4,7 +4,7 @@
 // Package tuple implements tuple data type and some operations on it.
 package tuple
 
-import "github.com/88act/gutil/mathutil"
+import "github.com/duke-git/lancet/v2/mathutil"
 
 // Tuple2 represents a 2 elemnets tuple
 type Tuple2[A any, B any] struct {
