@@ -13,4 +13,7 @@ test
 docs/node_modules
 docs/.vitepress/cache
 docs/.vitepress/dist
-guide/ 
+guide/
+docs-web/node_modules
+docs-web/docs/.vitepress/cache
+docs-web/docs/.vitepress/dist
