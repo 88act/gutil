@@ -218,6 +218,33 @@ func ToInt(value any) (int64, error) {
 	}
 }
 
+// ToInt
+func ToInt2(value any) (int, error) {
+	v := reflect.ValueOf(value)
+
+	var result int64
+	err := fmt.Errorf("ToInt: invalid value type %T", value)
+	switch value.(type) {
+	case int, int8, int16, int32, int64:
+		result = v.Int()
+		return int(result), nil
+	case uint, uint8, uint16, uint32, uint64:
+		result = int64(v.Uint())
+		return int(result), nil
+	case float32, float64:
+		result = int64(v.Float())
+		return int(result), nil
+	case string:
+		result, err = strconv.ParseInt(v.String(), 0, 64)
+		if err != nil {
+			result = 0
+		}
+		return int(result), err
+	default:
+		return int(result), err
+	}
+}
+
 // ToPointer returns a pointer to passed value.
 // Play: https://go.dev/play/p/ASf_etHNlw1
 func ToPointer[T any](value T) *T {
