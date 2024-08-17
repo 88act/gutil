@@ -16,6 +16,7 @@ import (
 	"crypto/sha256"
 	"crypto/x509"
 	"encoding/pem"
+	"fmt"
 	"io"
 	"os"
 )
@@ -53,6 +54,12 @@ func AesEcbEncrypt(data, key []byte) []byte {
 // len(key) should be 16, 24 or 32.
 // Play: https://go.dev/play/p/jT5irszHx-j
 func AesEcbDecrypt(encrypted, key []byte) []byte {
+	defer func() {
+		if r := recover(); r != nil {
+			fmt.Println("解码ase错误:", r)
+		}
+	}()
+
 	size := len(key)
 	if size != 16 && size != 24 && size != 32 {
 		panic("key length shoud be 16 or 24 or 32")
@@ -168,24 +175,33 @@ func AesCfbEncrypt(data, key []byte) []byte {
 // len(encrypted) should be great than 16, len(key) should be 16, 24 or 32.
 // Play: https://go.dev/play/p/tfkF10B13kH
 func AesCfbDecrypt(encrypted, key []byte) []byte {
-	size := len(key)
-	if size != 16 && size != 24 && size != 32 {
-		panic("key length shoud be 16 or 24 or 32")
-	}
 
-	if len(encrypted) < aes.BlockSize {
-		panic("encrypted data is too short")
-	}
+	defer func() {
+		if r := recover(); r != nil {
+			fmt.Println("Recovered from panic:", r)
+		}
+	}()
 
-	block, _ := aes.NewCipher(key)
-	iv := encrypted[:aes.BlockSize]
-	encrypted = encrypted[aes.BlockSize:]
+	// 这里会触发 panic
+	panic("something went wrong!")
+	// size := len(key)
+	// if size != 16 && size != 24 && size != 32 {
+	// 	panic("key length shoud be 16 or 24 or 32")
+	// }
 
-	stream := cipher.NewCFBDecrypter(block, iv)
+	// if len(encrypted) < aes.BlockSize {
+	// 	panic("encrypted data is too short")
+	// }
 
-	stream.XORKeyStream(encrypted, encrypted)
+	// block, _ := aes.NewCipher(key)
+	// iv := encrypted[:aes.BlockSize]
+	// encrypted = encrypted[aes.BlockSize:]
 
-	return encrypted
+	// stream := cipher.NewCFBDecrypter(block, iv)
+
+	// stream.XORKeyStream(encrypted, encrypted)
+
+	// return encrypted
 }
 
 // AesOfbEncrypt encrypt data with key use AES OFB algorithm
